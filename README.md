@@ -1,2 +1,2 @@
 # SQL-
-Bu Repository SQL becerilerini gelişrtirmek için oluşturulmuştur.
+Bu Repository SQL becerilerini geliştirmek için oluşturulmuştur.
